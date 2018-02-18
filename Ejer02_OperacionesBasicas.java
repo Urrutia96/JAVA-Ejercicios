@@ -4,7 +4,7 @@ package Ejercicios;
 
 import java.util.Scanner;
 /**
- * @author osmin
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer02_OperacionesBasicas {
     private double resultado;

@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author santos96
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer15_SegundoSiguiente {
     public static void main(String[] args){

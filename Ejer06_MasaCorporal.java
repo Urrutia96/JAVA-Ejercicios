@@ -16,7 +16,7 @@ package Ejercicios;
 import java.util.Scanner;
 /**
  *
- * @author osmin
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer06_MasaCorporal {
     public static void main(String[] args) {

@@ -6,6 +6,9 @@
 
 package Ejercicios;
 import java.util.Scanner;
+/**
+* @author Santos Osmin Urrutia Iraheta
+*/
 
 public class Ejer10_DetectorPalindromo {
 

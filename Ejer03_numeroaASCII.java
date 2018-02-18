@@ -6,7 +6,7 @@ package Ejercicios;
 import java.util.Scanner;
 /**
  *
- * @author osmin
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer03_numeroaASCII {
     public static void main(String[] args) {

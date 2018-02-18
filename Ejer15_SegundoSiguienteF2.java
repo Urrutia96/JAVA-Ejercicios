@@ -1,17 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Ejercicios;
 /*
     Pedir una hora de la forma hora, minutos y segundos, y mostrar la hora en el segundo siguiente
 */
 import java.util.Scanner;
-
 /**
  *
- * @author santos96
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer15_SegundoSiguienteF2 {
     public static void main(String[] args) {

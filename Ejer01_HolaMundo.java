@@ -4,7 +4,7 @@
 package Ejercicios;
 
 /**
- * @author osmin
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer01_HolaMundo {
     public static void main(String[] args) {

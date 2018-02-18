@@ -6,7 +6,7 @@ package Ejercicios;
 import java.util.Scanner;
 /**
  *
- * @author santos96
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer13_FechaCorrecta {
     public static void main(String[] args){

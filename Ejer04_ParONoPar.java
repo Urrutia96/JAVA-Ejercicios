@@ -6,7 +6,7 @@ package Ejercicios;
 import java.util.Scanner;
 /**
  *
- * @author osmin
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer04_ParONoPar {
     public static void main(String[] args) {

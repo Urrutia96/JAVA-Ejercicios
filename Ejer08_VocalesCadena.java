@@ -6,7 +6,7 @@ package Ejercicios;
 import javax.swing.JOptionPane;
 
 /**
- * @author osmin
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer08_VocalesCadena {
     public static void main(String[] args) {

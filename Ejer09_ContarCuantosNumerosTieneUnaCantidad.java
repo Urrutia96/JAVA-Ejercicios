@@ -11,7 +11,7 @@ package Ejercicios;
 import java.util.Scanner;
 
 /**
- * @author osmin
+ * @author Santos Osmin Urrutia Iraheta
  */
 public class Ejer09_ContarCuantosNumerosTieneUnaCantidad {
     public static void main(String[] args) {

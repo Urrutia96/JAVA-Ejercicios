@@ -3,8 +3,10 @@
  */
 
 package Ejercicios;
-
 import java.util.Scanner;
+/**
+* @author Santos Osmin Urrutia Iraheta
+*/
 
 public class Ejer12_PedirNumeroyMostrarReves {
 	public static void main(String[] args) {
